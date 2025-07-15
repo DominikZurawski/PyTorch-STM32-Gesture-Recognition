@@ -1,0 +1,17 @@
+{
+  "sequence_length": 80,
+  "input_channels": 3,
+  "hidden_size": 64,
+  "num_classes": 8,
+  "gestures": [
+    "przesuniecie_w_prawo",
+    "przesuniecie_w_lewo",
+    "przesuniecie_w_gore",
+    "przesuniecie_w_dol",
+    "okrag_zgodnie_z_ruchem_wskazowek",
+    "okrag_przeciwnie_do_ruchu_wskazowek",
+    "litera_Z",
+    "litera_V"
+  ],
+  "overlap_ratio": 0.9
+}

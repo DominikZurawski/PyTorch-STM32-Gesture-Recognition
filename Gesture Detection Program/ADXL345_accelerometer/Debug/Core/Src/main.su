@@ -1,0 +1,13 @@
+../Core/Src/main.c:80:5:__io_putchar	24	static
+../Core/Src/main.c:93:13:CS_Select	8	static
+../Core/Src/main.c:94:13:CS_Deselect	8	static
+../Core/Src/main.c:97:6:ADXL345_Write	24	static
+../Core/Src/main.c:105:6:ADXL345_Read	16	static
+../Core/Src/main.c:114:6:ADXL345_Init	16	static
+../Core/Src/main.c:125:6:ADXL345_GetXYZ	32	static
+../Core/Src/main.c:140:5:main	16	static
+../Core/Src/main.c:200:6:SystemClock_Config	96	static
+../Core/Src/main.c:251:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:291:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:326:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:357:6:Error_Handler	4	static,ignoring_inline_asm
