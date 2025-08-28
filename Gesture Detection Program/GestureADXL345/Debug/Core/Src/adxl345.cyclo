@@ -1,0 +1,8 @@
+../Core/Src/adxl345.c:25:6:normalizeAccelData	1
+../Core/Src/adxl345.c:38:7:calculateMagnitude	1
+../Core/Src/adxl345.c:42:13:CS_Select	1
+../Core/Src/adxl345.c:43:13:CS_Deselect	1
+../Core/Src/adxl345.c:45:6:ADXL345_Write	1
+../Core/Src/adxl345.c:52:6:ADXL345_Read	1
+../Core/Src/adxl345.c:60:6:ADXL345_Init	1
+../Core/Src/adxl345.c:66:6:ADXL345_GetXYZ	1
